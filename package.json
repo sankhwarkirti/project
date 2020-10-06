@@ -1,0 +1,24 @@
+{
+  "name": "carrental",
+  "version": "1.0.0",
+  "description": "\"this is my first project.\"",
+  "main": "index.php",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankhwarkirti/project.git"
+  },
+  "author": "KIRTI SANKHWAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankhwarkirti/project/issues"
+  },
+  "homepage": "https://github.com/sankhwarkirti/project#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
